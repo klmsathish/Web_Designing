@@ -1,5 +1,4 @@
 # Web_Designing
-Cloned websites 
 
 ## Getting Started
 
